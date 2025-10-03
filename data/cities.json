@@ -1,64 +1,52 @@
 {
-    "cities": [
-        {
-            "cityName": "Lisbon",
-            "country": "Portugal",
-            "emoji": "🇵🇹",
-            "date": "2027-10-31T15:59:59.138Z",
-            "notes": "My favorite city so far!",
-            "position": {
-                "lat": 38.727881642324164,
-                "lng": -9.140900099907554
-            },
-            "id": 73930385
-        },
-        {
-            "cityName": "Madrid",
-            "country": "Spain",
-            "emoji": "🇪🇸",
-            "date": "2027-07-15T08:22:53.976Z",
-            "notes": "",
-            "position": {
-                "lat": 40.46635901755316,
-                "lng": -3.7133789062500004
-            },
-            "id": 17806751
-        },
-        {
-            "cityName": "Berlin",
-            "country": "Germany",
-            "emoji": "🇩🇪",
-            "date": "2027-02-12T09:24:11.863Z",
-            "notes": "Amazing 😃",
-            "position": {
-                "lat": 52.53586782505711,
-                "lng": 13.376933665713324
-            },
-            "id": 98443197
-        },
-        {
-            "cityName": "Milan",
-            "country": "Italy",
-            "emoji": "🇮🇹",
-            "date": "2027-07-15T08:22:53.976Z",
-            "notes": "",
-            "position": {
-                "lat": 40.46635901755316,
-                "lng": -3.7133789062500004
-            },
-            "id": 172296751
-        },
-        {
-            "cityName": "Palermo",
-            "country": "Sicily",
-            "emoji": "🇮🇹",
-            "date": "2027-02-12T09:24:11.863Z",
-            "notes": "Amazing 😃",
-            "position": {
-                "lat": 52.53586782505711,
-                "lng": 13.376933665713324
-            },
-            "id": 9875753197
-        }
-    ]
+  "cities": [
+    {
+      "cityName": "Milan",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "172244481"
+    },
+    {
+      "id": "b40b",
+      "cityName": "Palermo",
+      "country": "Italy",
+      "date": "2025-10-03T18:20:07.082Z",
+      "notes": "",
+      "position": {
+        "lat": "38.112949789189635",
+        "lng": "13.349761962890625"
+      },
+      "emoji": "🇮🇹"
+    },
+    {
+      "id": "5174",
+      "cityName": "Catania",
+      "country": "Italy",
+      "date": "2025-10-03T19:19:02.389Z",
+      "notes": "test",
+      "position": {
+        "lat": "37.499920931273685",
+        "lng": "15.090408325195314"
+      },
+      "emoji": "🇮🇹"
+    },
+    {
+      "id": "ccf0",
+      "cityName": "Piazza Armerina",
+      "country": "Italy",
+      "date": "2025-10-03T19:20:04.975Z",
+      "notes": "",
+      "position": {
+        "lat": "37.38325280195101",
+        "lng": "14.400329589843752"
+      },
+      "emoji": "🇮🇹"
+    }
+  ]
 }
